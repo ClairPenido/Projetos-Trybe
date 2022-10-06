@@ -8,8 +8,8 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <h3> Projeto Pixels Arte </h3>
 
 <p align="center">
-<a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/Pixels-Art-Project">
-<img width="380px" src="projects-preview/PixelsArt.png"/>
+<a href="//github.com/ClairPenido/Pixels-Art">
+<img width="380px" src="./projetos-preview/PixelsArt.png"/>
 </a>
 <i> HTML - CSS - JavaScript </i>
 </p>
@@ -18,7 +18,7 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 
 <p align="center">
 <a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/Meme-Generator">
-<img width="380px" src="projects-preview/MemeGenerator.png"/>
+<img width="380px" src="./projetos-preview/MemeGenerator.png"/>
 </a>
 </p>
 
@@ -26,6 +26,15 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 
 <p align="center">
 <a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/To-do-List">
-<img align="center" width="380px" src="projects-preview/ToDoList.png"/>
+<img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
+</a>
+</p>
+
+
+<h3> Projeto Trybe Wallet </h3>
+
+<p align="center">
+<a href="//github.com/ClairPenido/TrybeWallet">
+<img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
 </a>
 </p>
