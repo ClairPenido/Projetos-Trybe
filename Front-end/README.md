@@ -1,0 +1,31 @@
+<h2> Sobre essa Pasta: </h2>
+
+<p> Abaixo segue os projetos <b>Front-End</b> elaborados durante meus estudos <br>
+Clique na imagem para que você seja direcionado para o repositório correspondente a cada um dos projetos
+</p>
+
+
+<h3> Projeto Pixels Arte </h3>
+
+<p align="center">
+<a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/Pixels-Art-Project">
+<img width="380px" src="projects-preview/PixelsArt.png"/>
+</a>
+<i> HTML - CSS - JavaScript </i>
+</p>
+
+<h3> Projeto Gerador de Memes </h3>
+
+<p align="center">
+<a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/Meme-Generator">
+<img width="380px" src="projects-preview/MemeGenerator.png"/>
+</a>
+</p>
+
+<h3> Projeto To-do List </h3>
+
+<p align="center">
+<a href="//github.com/ClairPenido/ClairPenido.github.io/tree/main/To-do-List">
+<img align="center" width="380px" src="projects-preview/ToDoList.png"/>
+</a>
+</p>
