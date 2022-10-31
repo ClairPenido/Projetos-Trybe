@@ -35,7 +35,7 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <h3> Projeto TrybeWarts</h3>
 
 <p align="center">
-<a href="https://dashing-crisp-0ffa7e.netlify.app/">
+<a href="https://github.com/ClairPenido/TrybeWarts-Project">
 <img align="center" width="380px" src="./projetos-preview/TrybeWarts.png"/>
 </a>
 <p align="center"> HTML - CSS - JavaScript </p>
@@ -45,7 +45,7 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <h3> Projeto Trybe Wallet </h3>
 
 <p align="center">
-<a href="https://cp-trybe-wallet.netlify.app/">
+<a href="https://github.com/ClairPenido/TrybeWallet">
 <img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
 </a>
 <p align="center"> HTML - CSS - JavaScript - React </p>
@@ -54,7 +54,9 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <h3> Projeto Star-Wars </h3>
 
 <p align="center">
-<a href="https://cp-trybe-wallet.netlify.app/">
+<a href="https://github.com/ClairPenido/StarWars-Planets-Search-Project">
 <img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
 </a>
+  <p align="center"> HTML - CSS - JavaScript - React </p>
+</p>
 </p>
