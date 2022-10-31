@@ -11,7 +11,7 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <a href="//github.com/ClairPenido/Pixels-Art">
 <img width="380px" src="./projetos-preview/PixelsArt.png"/>
 </a>
-<i> HTML - CSS - JavaScript </i>
+<p align="center"> HTML - CSS - JavaScript </p>
 </p>
 
 <h3> Projeto Gerador de Memes </h3>
@@ -32,6 +32,14 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 
 
 <h3> Projeto Trybe Wallet </h3>
+
+<p align="center">
+<a href="//github.com/ClairPenido/TrybeWallet">
+<img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
+</a>
+</p>
+
+<h3> Projeto Star-Wars </h3>
 
 <p align="center">
 <a href="//github.com/ClairPenido/TrybeWallet">
