@@ -48,7 +48,7 @@ Clique na imagem para que você seja direcionado para o repositório corresponde
 <a href="https://github.com/ClairPenido/TrybeWallet">
 <img align="center" width="380px" src="./projetos-preview/ToDoList.png"/>
 </a>
-<p align="center"> HTML - CSS - JavaScript - React </p>
+<p align="center"> HTML - CSS - JavaScript - React - Jest </p>
 </p>
 
 <h3> Projeto Star-Wars </h3>
